@@ -1,8 +1,8 @@
 ## Cuda Implementation of Parallel Prefix Sum (Blelloch Scan)
 
 ### References
-[http://http.developer.nvidia.com/GPUGems3/gpugems3_ch39.html]
-[https://www.cs.cmu.edu/~blelloch/papers/Ble93.pdf]
+- [http://http.developer.nvidia.com/GPUGems3/gpugems3_ch39.html]
+- [https://www.cs.cmu.edu/~blelloch/papers/Ble93.pdf]
 
 
 ### Sample Output
