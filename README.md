@@ -9,7 +9,7 @@
 
 ```
 $ nvcc -o psum psum.cu      # nvcc compile
-$ ./psum                    # run
+$ ./psum                    # compute prefix sum of [0, 3, 6, ..., 2994, 2997]
 0  0
 3  0
 6  3
